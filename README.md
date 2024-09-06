@@ -61,7 +61,7 @@ git clone https://github.com/protapbarman02/learn-react.git
 Go to the directory of the cloned project:
 
 ```bash
-cd my-react-app
+cd learn-react
 ```
 
 #### 3. Install dependencies
