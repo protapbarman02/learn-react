@@ -53,7 +53,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [Git](https://git-scm.com/
 First, clone the repository to your local machine using Git:
 
 ```bash
-
+git clone https://github.com/protapbarman02/learn-react.git
 ```
 
 #### 2. Navigate to the Project Directory
